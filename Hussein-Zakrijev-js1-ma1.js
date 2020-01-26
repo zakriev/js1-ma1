@@ -26,7 +26,7 @@
   console.log(heading.className);
   
   //Q5
-  //Write code that selects all the p elements on a page and assigns them to a variable called paragraphs. */
+  //Write code that selects all the p elements on a page and assigns them to a variable called paragraphs.
   
   const paragraphs = document.querySelectorAll("p");
   
